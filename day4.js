@@ -25,7 +25,7 @@ let num2 = Number(prompt("Enter the second number for multy:"));
 console.log("Multiply Number is ",num1*num2);
 //task5
 let num3= Number(prompt("Enter a number for even and odd:")); 
- if (num % 2 === 0) {
+ if (num3 % 2 === 0) {
     console.log("Even number");
 } else {
     console.log("Odd number");
